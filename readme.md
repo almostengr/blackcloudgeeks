@@ -21,7 +21,7 @@ You may contribute to the repository by adding your content via a
 ## Contributing To the Repository
 
 Contributions are always welcome! Please take a look at the 
-[contribution guidelines](https://github.com/almostengr/blackcloudgeeks/blob/main/contributing.md) pages first
+[contribution guidelines](https://github.com/almostengr/blackcloudgeeks/blob/main/contribution-guidelines.md) pages first
 before creating a pull request.
 
 ## ⭐ Support 
